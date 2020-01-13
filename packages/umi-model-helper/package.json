@@ -1,0 +1,27 @@
+{
+  "name": "umi-model-helper",
+  "version": "0.1.0",
+  "main": "./lib/index.js",
+  "license": "MIT",
+  "author": {
+    "name": "king",
+    "email": "117745900@qq.com"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "umi",
+    "cache"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jqxismygit/babel-plugin-jsx-wapper"
+  },
+  "devDependencies": {
+    "@types/dva": "^1.1.0",
+    "father-build": "^1.12.0"
+  },
+  "scripts": {
+    "start": "father-build"
+  }
+}
